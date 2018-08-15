@@ -1,0 +1,17 @@
+{
+  "name": "TridentTD_ESP_TrueRandom",
+  "keywords": "ESP8266, ESP32, TrueRandom, random",
+  "description": "True Random number for ESP8266/ESP32",
+  "homepage": "https://github.com/TridentTD/TridentTD_ESP_TrueRandom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TridentTD/TridentTD_ESP_TrueRandom"
+  },
+  "version": "1.0",
+  "authors": {
+    "name": "TridentTD",
+    "url": "https://github.com/TridentTD/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp8266, esp32"
+}
